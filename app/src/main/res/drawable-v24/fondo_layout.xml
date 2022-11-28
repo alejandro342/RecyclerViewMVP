@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+
+            <gradient
+                android:centerX="1"
+                android:endColor="#18dabf"
+                android:centerColor="@color/purple_500"
+                android:startColor="#ea47d4"
+                android:type="sweep" />
+
+        </shape>
+    </item>
+</layer-list>
