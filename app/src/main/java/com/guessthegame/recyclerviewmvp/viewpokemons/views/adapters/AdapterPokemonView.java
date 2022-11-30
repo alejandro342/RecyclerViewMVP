@@ -64,17 +64,3 @@ public class AdapterPokemonView extends ListAdapter<Pokemon, AdapterPokemonView.
         }
     }
 }
-/*
-    ItemPokemonBinding itemPokemonBinding = ItemPokemonBinding.inflate(LayoutInflater.from(parent.getContext()));
-        return new ViewHolderPokemon(itemPokemonBinding);
-    public static class ViewHolderPokemon extends RecyclerView.ViewHolder {
-
-        private ItemPokemonBinding mBinding;
-
-        public ViewHolderPokemon(ItemPokemonBinding binding) {
-
-            super(binding.getRoot());
-            mBinding = binding;
-        }
-    }
-*/
